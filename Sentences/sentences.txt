@@ -1,0 +1,35 @@
+** Easy
+The cat sleeps on the warm couch
+Birds fly high in the blue sky
+She loves to read every morning
+Coffee tastes best when it's hot
+The dog barked at the loud noise
+I enjoy watching the sunset daily
+He likes to walk in the park
+Rain makes the plant grow green
+My favorite color is bright blue
+Time flies when you are having fun
+
+** Medium
+Learning to type faster takes practice and focus
+A quick brown fox jumps over the lazy dog
+They planned a trip to the mountains last semester
+Technology helps us stay connected across the globe
+She bought two dozen fresh apples at the market
+The curious child asked countless questions about the stars
+Hard work and dedication lead to success in life
+The musician played a beautiful melody on the piano
+Laughter echoed through the empty halls of the school
+A well-balanced diet can improve your overall health
+
+** Hard
+The synchronization of data across multiple servers requires precision
+He carefully measured the temperature fluctuations during the experiment
+Philosophers often ponder the complexities of human existence and morality
+Amidst the chaos, she remained suprisingly calm and resolute
+Cryptographic algorithms are essential for ensuring secure communications
+The intricate patterns on the ancient vase fascinated the archaeologists
+A sudden juxtaposition of silence and noise started the audience
+TO successfully refactor the codebase, meticulous testing is imperative
+The software's asynchronous operations improve efficiency and scalability
+In the wilderness, adaptability and resourcefulness are vital for survival
